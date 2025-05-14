@@ -25,7 +25,7 @@ efficiency in both technical and collaborative environments.
   <a href="www.linkedin.com/in/andrewsamir2001" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="25" alt="linkedin logo"  />
   </a>
-  <a href="andrewsamir317@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=andrewsamir317@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="25" alt="gmail logo"  />
   </a>
   <a href="01227141537" target="_blank">
