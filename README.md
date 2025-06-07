@@ -18,7 +18,6 @@ efficiency in both technical and collaborative environments.
 </a>
    </p>
 
-
 ###
 
 <div align="center">
