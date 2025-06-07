@@ -36,7 +36,6 @@ efficiency in both technical and collaborative environments.
   </a>
 </div>
 
-
 ##
 
 <div align="center">
