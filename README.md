@@ -8,6 +8,7 @@ applications. Strong leadership and teamwork abilities, with experience mentorin
 projects, and optimizing workflows. Excellent communication and problem-solving skills, ensuring
 efficiency in both technical and collaborative environments.
 
+<!--
    <p align="left">
       
   <a href="https://drive.google.com/file/d/1MZWb1ir-kGIenB9bxU02tBfCK41ohvgU/view?usp=sharing" target="_blank">
@@ -17,6 +18,7 @@ efficiency in both technical and collaborative environments.
     src="https://custom-icon-badges.demolab.com/badge/CV-View-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=2E7D32" />
 </a>
    </p>
+   -->
 
 ###
 
@@ -27,9 +29,9 @@ efficiency in both technical and collaborative environments.
   <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=andrewsamir317@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="25" alt="gmail logo"  />
   </a>
-  <a href="01227141537" target="_blank">
+<!--   <a href="01227141537" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="50" height="25" alt="whatsapp logo"  />
-  </a>
+  </a> -->
   <a href="https://www.instagram.com/andrew_samir_8/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="25" alt="instagram logo"  />
   </a>
