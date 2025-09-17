@@ -1,12 +1,20 @@
-# 🧑‍💻 Andrew Samir
+# 🧑‍💻 Hi there i'm Andrew Samir
 
+<!-- 
 **`Fullstack Developer (MERN Stack)`**
+-->
 
+**`Front-End Developer (React JS)`**
+
+I’m a Front-End Developer focused on crafting clean, accessible interfaces and smooth user experiences. I work primarily with React.js, Vue.js, Next.js, and modern styling with Tailwind CSS. I care about clean architecture, maintainable code, and performance.
+
+<!--
 Fullstack Developer, Skilled in Vue.js, React, Bootstrap, Tailwind CSS, and backend tools like Node.js,
 Express.js, and MongoDB. Proficient in Git/GitHub and passionate about building clean, responsive web
 applications. Strong leadership and teamwork abilities, with experience mentoring teams, coordinating
 projects, and optimizing workflows. Excellent communication and problem-solving skills, ensuring
 efficiency in both technical and collaborative environments.
+-->
 
 <!--
    <p align="left">
